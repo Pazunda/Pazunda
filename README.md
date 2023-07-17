@@ -6,16 +6,18 @@ To improve my skills, I have completed several training courses : </h3>
 
 
 
-### Karpov courses: 
-
+### Karpov courses: Data analyst, Simulator SQL
 <p>
 <img src="https://github.com/Pazunda/Pazunda/blob/b0364cdd47a5034e36e18e5582d720fa22781ed9/images/Screenshot%202023-07-17%20134203.png" width="400" height="266">
 <img src="https://github.com/Pazunda/Pazunda/blob/11df4be344e192bb448e5d22470e1b14b722313f/images/Simulator%20SQL.png" width="400" height="266">
 </p>
 
-Karpov courses: Simulator SQL
-Sapiens Solutions :Analytics and data management in Greenplum database
-Stepic :Generation Python: Course for beginners
+### Sapiens Solutions :Analytics and data management in Greenplum database  
+
+<img src="https://github.com/Pazunda/Pazunda/blob/55dc0d99f5a58db1acd559f898a0102885b18de8/images/SapSol%20Greenplum.png" width="400" height="600">
+
+### Stepic :Generation Python: Course for beginners
+<img src="https://github.com/Pazunda/Pazunda/blob/55dc0d99f5a58db1acd559f898a0102885b18de8/images/Stepic%20Python%201.png" width="400" height="266">
 
 ## Languages and Tools: 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
