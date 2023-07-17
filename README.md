@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi, my name is Alex! </h2>
 
-For a long time I worked in energy unit engineering , but I realized that it’s not what I want to do. Now I’m a junior data analyst with a set of knowledge and tools that allow me to dive deep into the problem and find out the best way to solve it. 
+For a long time I worked in engineering of energy facilities, but I realized that it’s not what I want to do. Now I’m a junior data analyst with a set of knowledge and tools that allow me to dive deep into the problem and find out the best way to solve it. 
 
 * I know how to do exploratory data analysis with python and sql
 * I like to work with numbers and hypotheses, I know basic concepts of probability theory and statistics.
