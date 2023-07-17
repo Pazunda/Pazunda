@@ -1,12 +1,13 @@
 
-<h1 align="center">Hi, my name is Alex! </h1>
-I am a junior data analyst with a set of knowledge and tools that allow me to immerse myself in the business problem and find out its solution in the best way
-I like to work with numbers and hypotheses, I love statistics and I like to find patterns in data. 
+<h2 align="center">Hi, my name is Alex! </h2>
 
-## Socials:
-[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/AlexPos_19)
-[![VK](https://img.shields.io/badge/vk-black?style=for-the-badge&logo=vk)](https://vk.com/id11849641)
-[![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:pazunda@gmail.com)
+For a long time I worked in energy unit engineering , but I realized that it’s not what I want to do. Now I’m a junior data analyst with a set of knowledge and tools that allow me to dive deep into the problem and find out the best way to solve it. 
+
+* I know how to do exploratory data analysis with python and sql
+* I like to work with numbers and hypotheses, I know basic concepts of probability theory and statistics.
+* I can prepare, conduct and analyze the results of A / B testing.
+* I can calculate the main product metrics and apply them to solve analytical problems
+
 
 ## Languages and Tools: 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
@@ -25,6 +26,10 @@ I like to work with numbers and hypotheses, I love statistics and I like to find
 ![Static Badge](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=Tableau)
 ![Static Badge](https://img.shields.io/badge/REDASH-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Superset-black?style=for-the-badge&logo=apachesuperset)
+
+## Contacts:
+[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/AlexPos_19)
+[![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:pazunda@gmail.com)
 
 To improve my skills I am constantly learning. Some of the courses I have completed :
 
