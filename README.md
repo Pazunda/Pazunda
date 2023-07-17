@@ -38,8 +38,8 @@ To improve my skills, I have completed several training courses :
 <img src="https://github.com/Pazunda/Pazunda/blob/55dc0d99f5a58db1acd559f898a0102885b18de8/images/Stepic%20Python%201.png" width="400" height="266">
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/Pazunda/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=ankhanhi&color=DE002D">
+   <a href="https://github.com/ankhanhi/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=Pazundai&color=DE002D">
    </a>
 </div>
 
