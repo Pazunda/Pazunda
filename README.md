@@ -8,10 +8,10 @@ To improve my skills, I have completed several training courses : </h3>
 
 ### Karpov courses: 
 
-
-<img src="https://github.com/Pazunda/Pazunda/blob/e8e432e9da0a588fabb54f99bde89153d0c70751/images/KarpovCourses%20-%20Data%20analyst.pdf">
-
-
+<p>
+<img src="https://github.com/Pazunda/Pazunda/blob/b0364cdd47a5034e36e18e5582d720fa22781ed9/images/Screenshot%202023-07-17%20134203.png" width="500" height="333">
+<img src="https://github.com/Pazunda/Pazunda/blob/11df4be344e192bb448e5d22470e1b14b722313f/images/Simulator%20SQL.png" width="500" height="333">
+</p>
 
 Karpov courses: Simulator SQL
 Sapiens Solutions :Analytics and data management in Greenplum database
