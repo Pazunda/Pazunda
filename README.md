@@ -2,13 +2,14 @@
 <h1 align="center">Hi, my name is Alex! </h1>
 <h3 align="center">I am a junior data analyst with a set of knowledge and tools that allow me to immerse myself in the business problem and find out its solution in the best way
 I like to work with numbers and hypotheses, I love statistics and I like to find patterns in data. 
-To improve my skills, I have completed several training courses : 🇷🇺</h3>
+To improve my skills, I have completed several training courses : </h3>
 
 
 
 ### Karpov courses: 
-![Screenshot_43](https://user-images.githubusercontent.com/104904113/202023317-31c193cc-7770-40fe-ac34-673237befc0e.jpg)
-<img src="путь к файлу" alt="альтернативный текст">
+
+
+<img src="https://github.com/Pazunda/Pazunda/blob/e8e432e9da0a588fabb54f99bde89153d0c70751/images/KarpovCourses%20-%20Data%20analyst.pdf">
 
 
 
