@@ -4,7 +4,7 @@ I am a junior data analyst with a set of knowledge and tools that allow me to im
 I like to work with numbers and hypotheses, I love statistics and I like to find patterns in data. 
 
 ## Socials:
-[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/@AlexPos_19)
+[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/AlexPos_19)
 [![VK](https://img.shields.io/badge/vk-black?style=for-the-badge&logo=vk)](https://vk.com/id11849641)
 [![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail)](mailto:pazunda@gmail.com)
 
