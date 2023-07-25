@@ -15,6 +15,7 @@ For a long time I worked in engineering of energy facilities, but I realized tha
 
 ![pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=NumPy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=Matplotlib)
 ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=seaborn)
 ![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=SciPy)
 
