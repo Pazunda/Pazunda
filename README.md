@@ -44,9 +44,11 @@ To improve my skills I am constantly learning. Some of the courses I have comple
 
 <img src="https://github.com/Pazunda/Pazunda/blob/55dc0d99f5a58db1acd559f898a0102885b18de8/images/SapSol%20Greenplum.png" width="400" height="600">
 
-### Stepic :Generation Python: Course for beginners
+### Stepic :Generation Python: Course for beginners,Statistic for beginners
+<p>
 <img src="https://github.com/Pazunda/Pazunda/blob/55dc0d99f5a58db1acd559f898a0102885b18de8/images/Stepic%20Python%201.png" width="400" height="266">
-
+<img src="https://github.com/Pazunda/Pazunda/blob/a9648b8cbe299f239fb4071c74063d84cb49a65a/images/Stepic%20Statistic_1.png" width="400" height="266">
+</p>
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/ankhanhi/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=Pazundai&color=red">
