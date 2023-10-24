@@ -39,11 +39,12 @@ To improve my skills I am constantly learning. Some of the courses I have comple
 <img src="https://github.com/Pazunda/Pazunda/blob/b0364cdd47a5034e36e18e5582d720fa22781ed9/images/Screenshot%202023-07-17%20134203.png" width="400" height="266">
 <img src="https://github.com/Pazunda/Pazunda/blob/11df4be344e192bb448e5d22470e1b14b722313f/images/Simulator%20SQL.png" width="400" height="266">
 </p>
-[
-### Sapiens Solutions :Analytics and data management in Greenplum database  
+
+
+[]: #  ### Sapiens Solutions :Analytics and data management in Greenplum database  
 
 <img src="https://github.com/Pazunda/Pazunda/blob/55dc0d99f5a58db1acd559f898a0102885b18de8/images/SapSol%20Greenplum.png" width="400" height="600">
-]:#
+
 ### Stepic :Generation Python: Course for beginners,Fundamentals of statistics
 <p>
 <img src="https://github.com/Pazunda/Pazunda/blob/55dc0d99f5a58db1acd559f898a0102885b18de8/images/Stepic%20Python%201.png" width="400" height="266">
