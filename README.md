@@ -39,8 +39,11 @@ To improve my skills I am constantly learning. Some of the courses I have comple
 <img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Data%20analyst.png" width="400" height="266">
 </p>
 Projects:
-<a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_2.ipynb">A/B test result analysis</a>
-<a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_1.ipynb">Retention calculation function</a>
+<p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_2.ipynb">A/B test result analysis</a></p>
+<p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_1.ipynb">Retention calculation function</a></p>
+<p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_3.txt">definition of event metrics</a></p>
+
+
 <img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Simulator%20SQL.png" width="400" height="266">
 
 </p>
