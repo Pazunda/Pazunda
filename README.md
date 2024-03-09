@@ -50,7 +50,7 @@ To improve my skills I constantly learn. Some of the courses I have completed :
 <img src="https://github.com/Pazunda/Pazunda/blob/7430ad01beff9016e28a281d8e96dfdb5299164e/images/KC_Data_analyst_simulator.png" width="400" height="266"></p>
 <h3>Сompleted Projects:</h3> 
 <ul>
-   <li><a href="https://github.com/Pazunda/KC_DA_simulator/blob/0012129aa72a13f804bb8e9f56047347891837fb/A%5CB%20test%20project/readme.md">A/B test: description </a>A/B test: description</li>   
+   <li><a href="https://github.com/Pazunda/KC_DA_simulator/blob/0012129aa72a13f804bb8e9f56047347891837fb/A%5CB%20test%20project/readme.md">A/B test: description </a></li>   
       <ul>
          <li><a href="https://github.com/Pazunda/KC_DA_simulator/blob/d1a21ab252ed39732cbfec621ea176222fe4b29b/A%5CB%20test%20project/A_A_test.ipynb">A/B test: stage 1 - providing A/A test </a></li>
          <li><a href="https://github.com/Pazunda/KC_DA_simulator/blob/e6ef41e4938afc8d1a229e1b4c06cf3a103f76a2/A%5CB%20test%20project/A_B_test.ipynb">A/B test: stage 2 - providing A/B test, different types,comparision and conclusions </a></li>
