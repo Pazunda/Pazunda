@@ -38,7 +38,8 @@ To improve my skills I am constantly learning. Some of the courses I have comple
 <p>
 <img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Data%20analyst.png" width="400" height="266">
 </p>
-<h3>Projects:</h3> 
+<h3>Сompleted Projects:</h3> 
+<p><a href="https://github.com/Pazunda/E-commerce_project/blob/ae44c7802cc72aab25d450524f0553684f97588b/middle_project_final.ipynb">E-shop metric analysis: EDA,RFM,Retention, </a></p>
 <p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_2.ipynb">A/B test result analysis</a></p>
 <p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_1.ipynb">Retention calculation function</a></p>
 <p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_3.txt">Definition of event metrics</a></p>
