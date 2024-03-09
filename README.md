@@ -40,7 +40,7 @@ To improve my skills I am constantly learning. Some of the courses I have comple
 <img src="https://github.com/Pazunda/Pazunda/blob/11df4be344e192bb448e5d22470e1b14b722313f/images/Simulator%20SQL.png" width="400" height="266">
 </p>
 
-![KarpovCourses:Data Analyst](https://img.shields.io/badge/KarpovCourses_Data_Analyst-black?style=for-the-badge&logo=KarpovCourses:Data Analyst)
+![KarpovCourses_DA](https://img.shields.io/badge/KarpovCourses_Data_Analyst-black?style=for-the-badge&logo=KarpovCourses_Data_Analyst)
 
 <!-- ### Sapiens Solutions :Analytics and data management in Greenplum database  
 
