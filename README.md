@@ -49,8 +49,10 @@ To improve my skills I am constantly learning. Some of the courses I have comple
 
 </p>
 <p> 
-<img src="https://github.com/Pazunda/Pazunda/blob/7430ad01beff9016e28a281d8e96dfdb5299164e/images/KC_Data_analyst_simulator.png" width="400" height="266">
-</p>
+<img src="https://github.com/Pazunda/Pazunda/blob/7430ad01beff9016e28a281d8e96dfdb5299164e/images/KC_Data_analyst_simulator.png" width="400" height="266"></p>
+<h3>Сompleted Projects:</h3> 
+<p><a href="https://github.com/Pazunda/KC_DA_simulator/blob/d1a21ab252ed39732cbfec621ea176222fe4b29b/A%5CB%20test%20project/A_A_test.ipynb">A/B test: stage 1 - providing A/A test </a></p>
+
 
 
 ### Stepic :Generation Python: Course for beginners,Fundamentals of statistics
