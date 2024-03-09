@@ -34,9 +34,10 @@ For a long time I worked in engineering of energy facilities, but I realized tha
 
 To improve my skills I am constantly learning. Some of the courses I have completed :
 
-### Karpov courses: Data analyst, Simulator SQL
+### Karpov courses: Data analyst.
 <p>
 <img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Data%20analyst.png" width="400" height="266">
+</p>
 <img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Simulator%20SQL.png" width="400" height="266">
 </p>
 <p> 
