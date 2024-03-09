@@ -39,8 +39,7 @@ To improve my skills I am constantly learning. Some of the courses I have comple
 <img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Data%20analyst.png" width="400" height="266">
 </p>
 ### Projects:
-<a href="[asdf](https://github.com/Pazunda/Educational_project-karpov_courses_final-)">
-       <img width="175px" src="https://github.com/Pazunda/Educational_project-karpov_courses_final-">
+[A/B test result analysis](https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_2.ipynb)
 
 <img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Simulator%20SQL.png" width="400" height="266">
 </p>
