@@ -36,8 +36,8 @@ To improve my skills I am constantly learning. Some of the courses I have comple
 
 ### Karpov courses: Data analyst, Simulator SQL
 <p>
-<img src="https://github.com/Pazunda/Pazunda/blob/b0364cdd47a5034e36e18e5582d720fa22781ed9/images/Screenshot%202023-07-17%20134203.png" width="400" height="266">
-<img src="https://github.com/Pazunda/Pazunda/blob/11df4be344e192bb448e5d22470e1b14b722313f/images/Simulator%20SQL.png" width="400" height="266">
+<img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Data%20analyst.png" width="400" height="266">
+<img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Simulator%20SQL.png" width="400" height="266">
 </p>
 <p> 
 <img src="https://github.com/Pazunda/Pazunda/blob/7430ad01beff9016e28a281d8e96dfdb5299164e/images/KC_Data_analyst_simulator.png" width="400" height="266">
