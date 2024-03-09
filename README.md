@@ -43,18 +43,16 @@ To improve my skills I am constantly learning. Some of the courses I have comple
 <p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_2.ipynb">A/B test result analysis</a></p>
 <p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_1.ipynb">Retention calculation function</a></p>
 <p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_3.txt">Definition of event metrics</a></p>
-
-
-<img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Simulator%20SQL.png" width="400" height="266">
-
 </p>
+
+### Karpov courses: Data analyst simulator.
 <p> 
 <img src="https://github.com/Pazunda/Pazunda/blob/7430ad01beff9016e28a281d8e96dfdb5299164e/images/KC_Data_analyst_simulator.png" width="400" height="266"></p>
 <h3>Сompleted Projects:</h3> 
 <p><a href="https://github.com/Pazunda/KC_DA_simulator/blob/d1a21ab252ed39732cbfec621ea176222fe4b29b/A%5CB%20test%20project/A_A_test.ipynb">A/B test: stage 1 - providing A/A test </a></p>
+<p><a href="https://github.com/Pazunda/KC_DA_simulator/blob/e6ef41e4938afc8d1a229e1b4c06cf3a103f76a2/A%5CB%20test%20project/A_B_test.ipynb">A/B test: stage 2 - providing A/B test, different types,comparision and conclusions </a></p>
 
-
-
+<img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Simulator%20SQL.png" width="400" height="266">
 ### Stepic :Generation Python: Course for beginners,Fundamentals of statistics
 <p>
 <img src="https://github.com/Pazunda/Pazunda/blob/55dc0d99f5a58db1acd559f898a0102885b18de8/images/Stepic%20Python%201.png" width="400" height="266">
