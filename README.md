@@ -1,12 +1,12 @@
 
 <h2 align="center">Hi, my name is Alex! </h2>
 
-For a long time I worked in engineering of energy facilities, but I realized that it’s not what I want to do. Now I’m a junior data analyst with a set of knowledge and tools that allow me to dive deep into the problem and find out the best way to solve it. 
+For a long time I worked in engineering of energy facilities, but then I realized that it’s not what I wanted to do. Now I’m a junior data analyst with a set of knowledge and tools which allow me to immerse myself deeply into any problem and find out the best solutuion.
 
-* I know how to do exploratory data analysis with python and sql
+* I know exploratory data analysis using python and sql
 * I like to work with numbers and hypotheses, I know basic concepts of probability theory and statistics.
 * I can prepare, conduct and analyze the results of A / B testing.
-* I can calculate the main product metrics and apply them to solve analytical problems
+* I can calculate the main product metrics and apply them to solve analytical cases
 
 
 ## Languages and Tools: 
