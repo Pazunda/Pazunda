@@ -39,14 +39,16 @@ To improve my skills I constantly learn. Some of the courses I have completed :
 <img src="https://github.com/Pazunda/Pazunda/blob/69a3c75154dcc9c1d6547bcb9e9d0a0391ce6891/images/Data%20analyst.png" width="400" height="266">
 </p>
 <h3>Сompleted Projects:</h3> 
-<p><a href="https://github.com/Pazunda/E-commerce_project/blob/ae44c7802cc72aab25d450524f0553684f97588b/middle_project_final.ipynb">E-shop metric analysis: EDA,RFM,Retention, </a></p>
+<ul>
+   <li><p><a href="https://github.com/Pazunda/E-commerce_project/blob/ae44c7802cc72aab25d450524f0553684f97588b/middle_project_final.ipynb">E-shop metric analysis: EDA,RFM,Retention, </a></p></li>
+</ul>
 <p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_2.ipynb">A/B test result analysis</a></p>
 <p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_1.ipynb">Retention calculation function</a></p>
 <p><a href="https://github.com/Pazunda/Educational_project-karpov_courses_final-/blob/65cc27429a6c7b342b2c0f4f8330ebc5ae56f7da/a_posazhennikov_final_project_task_3.txt">Definition of event metrics</a></p>
 </p>
 
 ### Karpov courses: Data analyst simulator.
-*<p> 
+<p> 
 <img src="https://github.com/Pazunda/Pazunda/blob/7430ad01beff9016e28a281d8e96dfdb5299164e/images/KC_Data_analyst_simulator.png" width="400" height="266"></p>
 <h3>Сompleted Projects:</h3> 
 <p><a href="https://github.com/Pazunda/KC_DA_simulator/blob/d1a21ab252ed39732cbfec621ea176222fe4b29b/A%5CB%20test%20project/A_A_test.ipynb">A/B test: stage 1 - providing A/A test </a></p>
